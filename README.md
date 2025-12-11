@@ -12,7 +12,7 @@ A Next.js application for uploading, analyzing, and modifying Excel traffic coun
   •	Format Preservation – Maintains original formatting, formulas, and colors
   •	Responsive Design – Fully optimized for desktop and mobile
   •	Python Backend Integration – Uses openpyxl for accurate Excel manipulation
-
+  
 **Tech Stack**
   •	Framework: Next.js 15 / App Router
   •	Language: TypeScript
