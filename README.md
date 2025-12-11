@@ -3,41 +3,43 @@ A Next.js application for uploading, analyzing, and modifying Excel traffic coun
 
 **Features**
 
-**  •	Excel File Processing** – Upload .xlsx files and automatically modify traffic count values
+  •	Excel File Processing – Upload .xlsx files and automatically modify traffic count values
   
-**  •	Dynamic Bound Detectio**n – Detects and processes any bound/location name
+  •	Dynamic Bound Detection – Detects and processes any bound/location name
   
-**  •	Percentage-based Adjustments** – Increase or decrease counts by a custom percentage
+  •	Percentage-based Adjustments – Increase or decrease counts by a custom percentage
   
-**  •	Multi-Sheet Support** – Processes all time-based sheets (7-8AM through 6-7PM)
+  •	Multi-Sheet Support – Processes all time-based sheets (7-8AM through 6-7PM)
   
-**  •	Drag & Drop Upload** – Smooth drag-and-drop interface for file submission
+  •	Drag & Drop Upload – Smooth drag-and-drop interface for file submission
   
-**  •	Dark Mode UI **– Switch between light and dark themes
+  •	Dark Mode UI – Switch between light and dark themes
   
-**  •	Real-time Processing Logs** – View detailed Python logs after each operation
+  •	Real-time Processing Logs – View detailed Python logs after each operation
   
-**  •	Format Preservation** – Maintains original formatting, formulas, and colors
+  •	Format Preservation – Maintains original formatting, formulas, and colors
   
-**  •	Responsive Design** – Fully optimized for desktop and mobile
+  •	Responsive Design – Fully optimized for desktop and mobile
   
-**  •	Python Backend Integration** – Uses openpyxl for accurate Excel manipulation
+  •	Python Backend Integration – Uses openpyxl for accurate Excel manipulation
+
     
 **Tech Stack**
 
-**  •	Framework:** Next.js 15 / App Router
+  •	Framework: Next.js 15 / App Router
   
-**  •	Language:** TypeScript
+  •	Language: TypeScript
   
-**  •	Styling: **Tailwind CSS
+  •	Styling: Tailwind CSS
   
-**  •	Icons:** Lucide React
+  •	Icons: Lucide React
   
-**  •	Backend Processing:** Python (openpyxl)
+  •	Backend Processing: Python (openpyxl)
   
-**  •	File Handling:** Node.js File System API
+  •	File Handling: Node.js File System API
   
-**  •	Runtime:** Node.js server functions (for Python execution)
+  •	Runtime: Node.js server functions (for Python execution)
+
 
 
 **Getting Started**
