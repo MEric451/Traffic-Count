@@ -2,16 +2,16 @@
 A Next.js application for uploading, analyzing, and modifying Excel traffic count data.
 
 **Features**
-  •	Excel File Processing – Upload .xlsx files and automatically modify traffic count values
-  •	Dynamic Bound Detection – Detects and processes any bound/location name
-  •	Percentage-based Adjustments – Increase or decrease counts by a custom percentage
-  •	Multi-Sheet Support – Processes all time-based sheets (7-8AM through 6-7PM)
-  •	Drag & Drop Upload – Smooth drag-and-drop interface for file submission
-  •	Dark Mode UI – Switch between light and dark themes
-  •	Real-time Processing Logs – View detailed Python logs after each operation
-  •	Format Preservation – Maintains original formatting, formulas, and colors
-  •	Responsive Design – Fully optimized for desktop and mobile
-  •	Python Backend Integration – Uses openpyxl for accurate Excel manipulation
+•	Excel File Processing – Upload .xlsx files and automatically modify traffic count values
+•	Dynamic Bound Detection – Detects and processes any bound/location name
+•	Percentage-based Adjustments – Increase or decrease counts by a custom percentage
+•	Multi-Sheet Support – Processes all time-based sheets (7-8AM through 6-7PM)
+•	Drag & Drop Upload – Smooth drag-and-drop interface for file submission
+•	Dark Mode UI – Switch between light and dark themes
+•	Real-time Processing Logs – View detailed Python logs after each operation
+•	Format Preservation – Maintains original formatting, formulas, and colors
+•	Responsive Design – Fully optimized for desktop and mobile
+•	Python Backend Integration – Uses openpyxl for accurate Excel manipulation
   
 **Tech Stack**
   •	Framework: Next.js 15 / App Router
