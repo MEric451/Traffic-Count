@@ -50,7 +50,7 @@ export default function ExcelTrafficModifier() {
     }
   };
 
-  const addLog = (git branchmessage: string) => {
+  const addLog = (message: string) => {
     setLog((prev) => [
       ...prev,
       `${new Date().toLocaleTimeString()}: ${message}`,
